@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607250920502</updated>
       <workItem from="1607250921844" duration="760000" />
-      <workItem from="1607322880720" duration="15240000" />
+      <workItem from="1607322880720" duration="21842000" />
     </task>
     <task id="LOCAL-00001" summary="styled and added navbar">
       <created>1607338883258</created>
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607338883258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added and styled header">
+      <created>1607417692115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607417692115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="styled and added navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="styled and added navbar" />
+    <MESSAGE value="added and styled header" />
+    <MESSAGE value="added and styled icons and solutions section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added and styled icons and solutions section" />
   </component>
 </project>
