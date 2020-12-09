@@ -68,7 +68,7 @@
       <updated>1607250920502</updated>
       <workItem from="1607250921844" duration="760000" />
       <workItem from="1607322880720" duration="21893000" />
-      <workItem from="1607497805086" duration="4352000" />
+      <workItem from="1607497805086" duration="8214000" />
     </task>
     <task id="LOCAL-00001" summary="styled and added navbar">
       <created>1607338883258</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607424191366</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added and styled case and blog sections">
+      <created>1607510553568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607510553569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +120,7 @@
     <MESSAGE value="styled and added navbar" />
     <MESSAGE value="added and styled header" />
     <MESSAGE value="added and styled icons and solutions section" />
-    <option name="LAST_COMMIT_MESSAGE" value="added and styled icons and solutions section" />
+    <MESSAGE value="added and styled case and blog sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="added and styled case and blog sections" />
   </component>
 </project>
