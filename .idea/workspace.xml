@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9469ac1c-1ef5-413f-889d-79eaa5e7f9c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,8 @@
       <workItem from="1607250921844" duration="760000" />
       <workItem from="1607322880720" duration="21893000" />
       <workItem from="1607497805086" duration="8411000" />
-      <workItem from="1607587105480" duration="1920000" />
+      <workItem from="1607587105480" duration="4277000" />
+      <workItem from="1607652745745" duration="4188000" />
     </task>
     <task id="LOCAL-00001" summary="styled and added navbar">
       <created>1607338883258</created>
@@ -104,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607514381246</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added media queries">
+      <created>1607589402810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607589402811</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +139,8 @@
     <MESSAGE value="added and styled icons and solutions section" />
     <MESSAGE value="added and styled case and blog sections" />
     <MESSAGE value="added and styled team, contact and footer sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="added and styled team, contact and footer sections" />
+    <MESSAGE value="added media queries" />
+    <MESSAGE value="added and styled blogpost page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added and styled blogpost page" />
   </component>
 </project>
