@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9469ac1c-1ef5-413f-889d-79eaa5e7f9c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lightbox.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -71,7 +76,9 @@
       <workItem from="1607322880720" duration="21893000" />
       <workItem from="1607497805086" duration="8411000" />
       <workItem from="1607587105480" duration="4277000" />
-      <workItem from="1607652745745" duration="4188000" />
+      <workItem from="1607652745745" duration="5022000" />
+      <workItem from="1607686543287" duration="127000" />
+      <workItem from="1607731529706" duration="5468000" />
     </task>
     <task id="LOCAL-00001" summary="styled and added navbar">
       <created>1607338883258</created>
@@ -115,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607589402811</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added and styled blogpost page">
+      <created>1607684942027</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607684942027</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
